@@ -1,22 +1,61 @@
 {
-	"App": {
-		"header": {
-			"app-title": "Welcome to the event planner extravaganza"
-		},
-		"navigation": {
-			"navigation-list": {
-				"navigation-element": [
-					{
-						"navigation-a": "Home"
-					},
-					{
-						"navigation-a": "Events"
-					},
-					{
-						"navigation-a": "People"
-					}
-				]
-			}
-		}
-	}
+    "title": "EventsApp",
+    "events": [
+        {
+            "title": "Party!!",
+            "description": "A big party at a secret location.",
+            "start": "2018-04-27T22:30:00.540Z",
+            "end": "2018-04-28T04:30:00.540Z",
+            "created_at": "2018-04-26T18:08:54.373Z",
+            "confirmations": {
+                "list": []
+            }
+        },
+        {
+            "title": "Party2",
+            "description": "A big party at a secret location.3",
+            "start": "2018-04-27T22:30:00.540Z",
+            "end": "2018-04-28T04:30:00.540Z",
+            "created_at": "2018-04-26T18:08:54.373Z",
+            "confirmations": {
+                "list": []
+            }
+        },
+        {
+            "title": "Party3",
+            "description": "A big party at a secret location.2",
+            "start": "2018-04-27T22:30:00.540Z",
+            "end": "2018-04-28T04:30:00.540Z",
+            "created_at": "2018-04-26T18:08:54.373Z",
+            "confirmations": {
+                "list": []
+            }
+        }
+    ],
+    "people": [
+        {
+            "name": "Jean Pierre",
+            "email": "JP@gmail.com",
+            "birth_date": "1970-01-01",
+            "created_at": "2018-04-26T21:52:09.626Z",
+            "updated_at": "2018-04-26T22:15:37.531Z",
+            "events": []
+        },
+        {
+            "name": "Jean Pierre krgkgrrg",
+            "email": "JPk@gmail.com",
+            "birth_date": "1970-01-01",
+            "created_at": "2018-04-26T21:52:09.626Z",
+            "updated_at": "2018-04-26T22:15:37.531Z",
+            "events": []
+        },
+        {
+            "name": "Jean Pierre fqafqfq",
+            "email": "JPf@gmail.com",
+            "birth_date": "1970-01-01",
+            "created_at": "2018-04-26T21:52:09.626Z",
+            "updated_at": "2018-04-26T22:15:37.531Z",
+            "events": []
+        }
+    ]
 }
