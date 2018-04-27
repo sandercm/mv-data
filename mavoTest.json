@@ -70,7 +70,7 @@
 				"start": "Start Time"
 			},
 			{
-				"done": false,
+				"done": true,
 				"eventTitle": "test",
 				"description": "test",
 				"start": "test"
