@@ -70,16 +70,13 @@
 				"start": "Start Time"
 			},
 			{
-				"done": true,
-				"eventTitle": "test",
-				"description": "test",
-				"start": "test"
-			},
-			{
 				"done": false,
 				"eventTitle": "test",
 				"description": "tes",
 				"start": "tes"
+			},
+			{
+				"done": false
 			}
 		],
 		"People": [
