@@ -1,1 +1,22 @@
-{}
+{
+	"App": {
+		"header": {
+			"app-title": "Welcome to the event planner extravaganza"
+		},
+		"navigation": {
+			"navigation-list": {
+				"navigation-element": [
+					{
+						"navigation-a": "Home"
+					},
+					{
+						"navigation-a": "Events"
+					},
+					{
+						"navigation-a": "People"
+					}
+				]
+			}
+		}
+	}
+}
